@@ -31,11 +31,11 @@ Key features:
 
 Visit our website at **[jointhetroops.com](https://jointhetroops.com)** to learn more about how we can help your ecommerce business thrive.
 
-**The Troops PTE Ltd.**  
-160 Robinson Road  
-#14-04 Singapore Business Federation Centre  
+**The Troops PTE Ltd.**
+160 Robinson Road
+#14-04 Singapore Business Federation Centre
 Singapore 068914
-
+info@jointhetroops.com
 ---
 
 ## Development
