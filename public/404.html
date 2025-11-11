@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The Troops</title>
+    <script>
+      // GitHub Pages SPA redirect handler
+      // Saves the current path and redirects to index.html
+      sessionStorage.setItem('redirect', location.pathname + location.search + location.hash);
+      location.replace(location.origin + '/troops-website');
+    </script>
+  </head>
+  <body>
+    <!-- GitHub Pages 404 handler for SPA routing -->
+  </body>
+</html>
