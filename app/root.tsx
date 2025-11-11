@@ -11,7 +11,11 @@ import { useEffect } from "react";
 import type { Route } from "./+types/root";
 import "./app.css";
 
+const basePath = import.meta.env.PROD ? "/troops-website" : "";
+
 export const links: Route.LinksFunction = () => [
+  { rel: "icon", type: "image/png", sizes: "32x32", href: `${basePath}/favicon-32x32.png` },
+  { rel: "apple-touch-icon", sizes: "256x256", href: `${basePath}/apple-touch-icon.png` },
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   {
     rel: "preconnect",
